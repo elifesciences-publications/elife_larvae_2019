@@ -1,5 +1,5 @@
 # elife_larvae_2019
-Code associated with Elife Submission 2019:
+### This code is associated with the paper from Sales et al., "Regulation of subcellular dendritic synapse specificity by axon guidance cues". eLife, 2019. http://dx.doi.org/10.7554/eLife.43478
 
 **Regulation of subcellular dendritic synapse specificity by axon guidance cues**
 Emily C. Sales, Emily L. Heckman, Timothy L. Warren, and Chris Q. Doe
